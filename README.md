@@ -1,6 +1,8 @@
 # Resources
 
-[Expo Exercise File](https://snack.expo.dev/@sebas.thuis/empty-template)
+[Expo Exercise File](https://snack.expo.dev/@sebas.thuis/react-native-workshop-v6)
+
+[Expo Signup](https://expo.dev/signup)
 
 # Reaktor
 
