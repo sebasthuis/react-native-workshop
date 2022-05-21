@@ -1,6 +1,6 @@
 # Resources
 
-[Expo Exercise File](https://snack.expo.dev/@sebas.thuis/react-native-workshop-v6)
+[Expo Exercise File](https://snack.expo.dev/@sebas.thuis/react-native-workshop-v7)
 
 [Expo Signup](https://expo.dev/signup)
 
